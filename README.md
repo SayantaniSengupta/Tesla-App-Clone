@@ -1,5 +1,7 @@
 <h1 align="center">Tesla App UI</h1>
 
+
+A SwiftUI-based iOS app that clones the Tesla mobile app's user interface, showcasing a sleek, responsive design for controlling and monitoring Tesla vehicle features. Built with Swift 5.10 for iOS 18+, this project demonstrates modern iOS development with SwiftUI, MVVM architecture, and HIG-compliant UI, ideal for learning and portfolio showcasing.
 ## 📱 Demo
 
 <div align="center">
