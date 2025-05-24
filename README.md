@@ -4,6 +4,7 @@
 
 <div align="center">
   <video src="https://github.com/mdossantosdev/tesla-app/assets/25856076/95707c7a-400f-435c-a1cd-d59bc5b702fd" />
+    ![Screen Recording 2022-07-26 at 10 13 06](https://user-images.githubusercontent.com/3157579/180909021-cf87dfff-aacc-49a0-98f9-69cd63c8fa16.gif)
 </div>
 
 ## 🛠️ Technologies
