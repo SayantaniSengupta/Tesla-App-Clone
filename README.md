@@ -46,6 +46,4 @@ cd tesla-app && cd Tesla
 open Tesla.xcodeproj
 ```
 
-## © License
 
-This project is licensed under the [MIT License](LICENSE).
